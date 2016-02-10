@@ -1,0 +1,6 @@
+carrots 3.25
+bread 2.50
+milk 4.50
+peanuts 2.50
+kale 1.25
+cheese 5.00
